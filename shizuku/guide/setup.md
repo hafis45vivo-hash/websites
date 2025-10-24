@@ -14,7 +14,7 @@ System settings - "Security" - "Secure app spawning" may need to be disabled.
 
 :::
 
-### Start with root
+### Start with rootadb shell sh /storage/emulated/0/Android/data/moe.shizuku.privileged.api/start.sh
 
 For rooted devices, just start directly.
 
